@@ -1,28 +1,53 @@
 # 🧠 **Adversarial Attacks on Deep Learning & Computer Vision Models** 📸
 
 <p align="center">
-  <a href="#-dataset">
-    <img src="https://img.shields.io/badge/-Dataset-blue?style=for-the-badge" alt="Dataset">
+  <a href="#overview">
+    <img src="https://img.shields.io/badge/-Overview-blue?style=for-the-badge" alt="Overview">
   </a>
-  <a href="#-implementation-details">
-    <img src="https://img.shields.io/badge/-Implementation%20Details-green?style=for-the-badge" alt="Implementation Details">
+  <a href="#objectives">
+    <img src="https://img.shields.io/badge/-Objectives-green?style=for-the-badge" alt="Objectives">
   </a>
-  <a href="#-results">
-    <img src="https://img.shields.io/badge/-Results-orange?style=for-the-badge" alt="Results">
+  <a href="#business-impact">
+    <img src="https://img.shields.io/badge/-Business%20Impact-orange?style=for-the-badge" alt="Business Impact">
   </a>
-  <a href="#-key-findings">
-    <img src="https://img.shields.io/badge/-Key%20Findings-red?style=for-the-badge" alt="Key Findings">
+  <a href="#tools-and-libraries">
+    <img src="https://img.shields.io/badge/-Tools%20and%20Libraries-red?style=for-the-badge" alt="Tools and Libraries">
   </a>
-  <a href="#-recommendations">
-    <img src="https://img.shields.io/badge/-Recommendations-purple?style=for-the-badge" alt="Recommendations">
+  <a href="#installation">
+    <img src="https://img.shields.io/badge/-Installation-purple?style=for-the-badge" alt="Installation">
   </a>
-  <a href="#-key-takeaways">
-    <img src="https://img.shields.io/badge/-Key%20Takeaways-yellow?style=for-the-badge" alt="Key Takeaways">
+  <a href="#dataset">
+    <img src="https://img.shields.io/badge/-Dataset-yellow?style=for-the-badge" alt="Dataset">
   </a>
-  <a href="#-conclusion">
-    <img src="https://img.shields.io/badge/-Conclusion-pink?style=for-the-badge" alt="Conclusion">
+  <a href="#implementation-details">
+    <img src="https://img.shields.io/badge/-Implementation%20Details-pink?style=for-the-badge" alt="Implementation Details">
+  </a>
+  <a href="#results">
+    <img src="https://img.shields.io/badge/-Results-blue?style=for-the-badge" alt="Results">
+  </a>
+  <a href="#key-findings">
+    <img src="https://img.shields.io/badge/-Key%20Findings-green?style=for-the-badge" alt="Key Findings">
+  </a>
+  <a href="#recommendations">
+    <img src="https://img.shields.io/badge/-Recommendations-orange?style=for-the-badge" alt="Recommendations">
+  </a>
+  <a href="#key-takeaways">
+    <img src="https://img.shields.io/badge/-Key%20Takeaways-red?style=for-the-badge" alt="Key Takeaways">
+  </a>
+  <a href="#conclusion">
+    <img src="https://img.shields.io/badge/-Conclusion-purple?style=for-the-badge" alt="Conclusion">
+  </a>
+  <a href="#further-reading-and-resources">
+    <img src="https://img.shields.io/badge/-Further%20Reading%20and%20Resources-yellow?style=for-the-badge" alt="Further Reading and Resources">
+  </a>
+  <a href="#visit-my-repository">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Repository-blue?style=for-the-badge" alt="Visit My Repository">
+  </a>
+  <a href="#download-the-dataset">
+    <img src="https://img.shields.io/badge/-Download%20the%20Dataset-green?style=for-the-badge" alt="Download the Dataset">
   </a>
 </p>
+
 
 [![Visit GitHub Repository](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Advesarial-Attacks-on-Deep-Learning-Computer-Vision-Model)
 [![Download MNIST Dataset](https://img.shields.io/badge/Download-MNIST_Dataset-20BEFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/GM/AAAAAElFTkSuQmCC)](http://yann.lecun.com/exdb/mnist/)
@@ -45,7 +70,7 @@
 - [Conclusion](#conclusion)
 - [Further Reading and Resources](#further-reading-and-resources)
 - [Visit My Repository](#visit-my-repository)
-- [Download the Dataset](#download-the-dataset)
+- [Download the Dataset](#download-the-dataset)++
 
 ## Overview
 
@@ -129,8 +154,8 @@ Examining FGSM and PGD attacks provides essential insights into the vulnerabilit
 
 ## Visit My Repository
 
-- [![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-GitHub-blue)](https://github.com/devarchanadev/Advesarial-Attacks-on-Deep-Learning-Computer-Vision-Model)) 🔗
+- [![Visit GitHub Repository](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Advesarial-Attacks-on-Deep-Learning-Computer-Vision-Model) 🔗
 
 ## Download the Dataset
 
-- [![MNIST Dataset Download](https://img.shields.io/badge/MNIST_Dataset_Download-Click_here-blue)](http://yann.lecun.com/exdb/mnist/) 🔽
+- [![Download MNIST Dataset](https://img.shields.io/badge/Download-MNIST_Dataset-20BEFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/GM/AAAAAElFTkSuQmCC)](http://yann.lecun.com/exdb/mnist/) 🔽
