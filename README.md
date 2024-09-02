@@ -1,10 +1,33 @@
 # 🧠 **Adversarial Attacks on Deep Learning & Computer Vision Models** 📸
 
-## [![Jump to Dataset](https://img.shields.io/badge/JUMP_TO_DATASET-Click_here-blue)](#dataset) [![Jump to Implementation Details](https://img.shields.io/badge/JUMP_TO_IMPLEMENTATION_DETAILS-Click_here-blue)](#implementation-details) [![Jump to Results](https://img.shields.io/badge/JUMP_TO_RESULTS-Click_here-blue)](#results) [![Jump to Key Findings](https://img.shields.io/badge/JUMP_TO_KEY_FINDINGS-Click_here-blue)](#key-findings) [![Jump to Recommendations](https://img.shields.io/badge/JUMP_TO_RECOMMENDATIONS-Click_here-blue)](#recommendations) [![Jump to Key Takeaways](https://img.shields.io/badge/JUMP_TO_KEY_TAKEAWAYS-Click_here-blue)](#key-takeaways) [![Jump to Conclusion](https://img.shields.io/badge/JUMP_TO_CONCLUSION-Click_here-blue)](#conclusion) [![Visit Repository](https://img.shields.io/badge/VISIT_REPOSITORY-GitHub-blue)](https://github.com/your-repo-url) [![Download Dataset](https://img.shields.io/badge/DOWNLOAD_DATASET-MNIST-blue)](http://yann.lecun.com/exdb/mnist/)
+<p align="center">
+  <a href="#-dataset">
+    <img src="https://img.shields.io/badge/-Dataset-blue?style=for-the-badge" alt="Dataset">
+  </a>
+  <a href="#-implementation-details">
+    <img src="https://img.shields.io/badge/-Implementation%20Details-green?style=for-the-badge" alt="Implementation Details">
+  </a>
+  <a href="#-results">
+    <img src="https://img.shields.io/badge/-Results-orange?style=for-the-badge" alt="Results">
+  </a>
+  <a href="#-key-findings">
+    <img src="https://img.shields.io/badge/-Key%20Findings-red?style=for-the-badge" alt="Key Findings">
+  </a>
+  <a href="#-recommendations">
+    <img src="https://img.shields.io/badge/-Recommendations-purple?style=for-the-badge" alt="Recommendations">
+  </a>
+  <a href="#-key-takeaways">
+    <img src="https://img.shields.io/badge/-Key%20Takeaways-yellow?style=for-the-badge" alt="Key Takeaways">
+  </a>
+  <a href="#-conclusion">
+    <img src="https://img.shields.io/badge/-Conclusion-pink?style=for-the-badge" alt="Conclusion">
+  </a>
+</p>
+
+[![Visit GitHub Repository](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Advesarial-Attacks-on-Deep-Learning-Computer-Vision-Model)
+[![Download MNIST Dataset](https://img.shields.io/badge/Download-MNIST_Dataset-20BEFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/GM/AAAAAElFTkSuQmCC)](http://yann.lecun.com/exdb/mnist/)
 
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-GitHub-blue)](https://github.com/devarchanadev/Advesarial-Attacks-on-Deep-Learning-Computer-Vision-Model)
-[![MNIST Dataset Download](https://img.shields.io/badge/MNIST_Dataset_Download-Click_here-blue)](http://yann.lecun.com/exdb/mnist/)
 
 ## Table of Contents
 
