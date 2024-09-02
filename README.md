@@ -40,14 +40,9 @@
   <a href="#further-reading-and-resources">
     <img src="https://img.shields.io/badge/-Further%20Reading%20and%20Resources-yellow?style=for-the-badge" alt="Further Reading and Resources">
   </a>
-  <a href="#visit-my-repository">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Repository-blue?style=for-the-badge" alt="Visit My Repository">
-  </a>
-  <a href="#download-the-dataset">
-    <img src="https://img.shields.io/badge/-Download%20the%20Dataset-green?style=for-the-badge" alt="Download the Dataset">
-  </a>
 </p>
 
+---
 
 [![Visit GitHub Repository](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Advesarial-Attacks-on-Deep-Learning-Computer-Vision-Model)
 [![Download MNIST Dataset](https://img.shields.io/badge/Download-MNIST_Dataset-20BEFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/GM/AAAAAElFTkSuQmCC)](http://yann.lecun.com/exdb/mnist/)
